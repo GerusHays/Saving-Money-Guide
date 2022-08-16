@@ -29,6 +29,10 @@ I would run the application each time I would update the code to make sure it wa
 * Javascript
 * express
 
+## Live link
+
+## App Screenshot
+
 ## Questions
 If you have any questions about this project you may reach me below at: </br> 
 gerushays@gmail.com</br>

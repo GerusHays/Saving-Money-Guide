@@ -30,8 +30,10 @@ I would run the application each time I would update the code to make sure it wa
 * express
 
 ## Live link
+https://saving-money-guide.herokuapp.com/
 
 ## App Screenshot
+![screenshot](./images/budget-screenshot.png)
 
 ## Questions
 If you have any questions about this project you may reach me below at: </br> 
